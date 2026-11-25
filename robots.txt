@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarahamorimcosta.github.io/vellarys-logistica/sitemap.xml
